@@ -1,0 +1,16 @@
+body{
+    background-color: burlywood;
+}
+body{
+    margin: 5;
+    padding: 5;
+}
+header{
+    padding: 10px;
+    text-align: center;
+    background-color: burlywood;
+}
+img{
+    width: 700px;
+    height: 800px;
+}
